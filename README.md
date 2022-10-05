@@ -1,4 +1,4 @@
-This is the <a href=https://axsess.io>Axsess.io</a> repository
+This is the <a href=https://axsess.io>Axsess.io</a> carbon credit marketplace repository.
 
 <!---
 axsess/axsess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
